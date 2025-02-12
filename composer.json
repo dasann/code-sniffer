@@ -1,5 +1,5 @@
 {
-    "name": "spryker/code-sniffer",
+    "name": "dasann/code-sniffer",
     "description": "Spryker Code Sniffer Standards",
     "type": "phpcodesniffer-standard",
     "license": "MIT",

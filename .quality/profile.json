@@ -1,0 +1,19 @@
+{
+  "repository": "dasann/code-sniffer",
+  "baseBranch": "master",
+  "kind": "base",
+  "php": true,
+  "typed": false,
+  "astro": false,
+  "generatedPrefixes": [],
+  "browserFiles": [
+    "src/**/*.{js,jsx,ts,tsx}",
+    "assets/**/*.{js,jsx}",
+    "public/**/*.{js,jsx}",
+    "app/**/*.{ts,tsx}",
+    "components/**/*.{ts,tsx}",
+    "theme/blocks/**/*.js",
+    "blocks.js",
+    "script.js"
+  ]
+}
